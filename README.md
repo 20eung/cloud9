@@ -2,8 +2,8 @@
 AWS Cloud9 인스턴스 종료와 관련된 설정
 
 ## autoshutdown-configuration
-- 파일 위치: Cloud9 EC2 사용자 계정 홈디렉토리/.c9
-  만약 사용자 계정이 ubuntu 라면
+- 파일 위치: Cloud9 EC2 사용자 계정 홈디렉토리/.c9  
+  만약 사용자 계정이 ubuntu 라면  
   /home/ubuntu/.c9
   
 - 파일명: autoshutdown-configuration
