@@ -1,4 +1,4 @@
-# cloud9
+# AWS Cloud9
 AWS Cloud9 인스턴스 종료와 관련된 설정
 
 ## autoshutdown-configuration
